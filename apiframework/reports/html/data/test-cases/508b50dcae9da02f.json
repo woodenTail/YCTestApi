@@ -1,0 +1,102 @@
+{
+  "uid" : "508b50dcae9da02f",
+  "name" : "获取地址接口",
+  "fullName" : "keywords.test_run#test_run",
+  "historyId" : "751fb270a98b216fa4a697be2063ae5c",
+  "time" : {
+    "start" : 1665217492959,
+    "stop" : 1665217493092,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "seller_login",
+    "time" : {
+      "start" : 1665217492915,
+      "stop" : 1665217492958,
+      "duration" : 43
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1665217492387,
+      "stop" : 1665217492564,
+      "duration" : 177
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ab8cdebd15102bf",
+      "name" : "log",
+      "source" : "7ab8cdebd15102bf.txt",
+      "type" : "text/plain",
+      "size" : 11850
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "keywords"
+  }, {
+    "name" : "suite",
+    "value" : "test_run"
+  }, {
+    "name" : "host",
+    "value" : "WINDOWS-B7G8EFK"
+  }, {
+    "name" : "thread",
+    "value" : "10868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "keywords.test_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casename",
+    "value" : "'获取地址接口'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "508b50dcae9da02f.json",
+  "parameterValues" : [ "'获取地址接口'" ]
+}

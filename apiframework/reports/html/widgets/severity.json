@@ -1,0 +1,71 @@
+[ {
+  "uid" : "a26c6386572d47e",
+  "name" : "新增求购接口",
+  "time" : {
+    "start" : 1711672647293,
+    "stop" : 1711672647293,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fa6d263269dcebb1",
+  "name" : "获取商品-异常测试用例",
+  "time" : {
+    "start" : 1711672647374,
+    "stop" : 1711672647374,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e61cccc08c61a90a",
+  "name" : "发布撮合集市商品",
+  "time" : {
+    "start" : 1711672647447,
+    "stop" : 1711672647447,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f1b5e3b27b4c5fe4",
+  "name" : "获取地址接口",
+  "time" : {
+    "start" : 1711672647152,
+    "stop" : 1711672647152,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf2eda43a9b03084",
+  "name" : "新增撮合集市商品接口",
+  "time" : {
+    "start" : 1711672647224,
+    "stop" : 1711672647224,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a94d86007ca4503c",
+  "name" : "获取商品接口",
+  "time" : {
+    "start" : 1711672646113,
+    "stop" : 1711672646113,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "52f0cd3fa2ec8b64",
+  "name" : "下架撮合集市商品",
+  "time" : {
+    "start" : 1711672647518,
+    "stop" : 1711672647518,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

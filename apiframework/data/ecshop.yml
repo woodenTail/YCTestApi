@@ -1,0 +1,28 @@
+getshopproduct:
+  - ['正向用例',{'uid':8504, 'token':49af2262a37f450ba13e2ecd8599f7d2},200,'']
+  - ['uid为0',{'uid':'0','token':49af2262a37f450ba13e2ecd8599f7d2},200,'login timeout']
+  - ['uid为空',{'uid':'','token':49af2262a37f450ba13e2ecd8599f7d2},200,"login timeout"]
+  - ['token为空',{'uid':'6504','token':''},200,"login timeout"]
+  - ['token错误',{'uid':'6504','token':49af2262a37f450ba13e2ecd8599f7d2eee},200,"login timeout"]
+  - ['uuid&token为空',{'uid':'','token':''},200,"login timeout"]
+
+
+
+addshopproduct:
+    - [ '添加商品正向用例',{ 'productId': 1156, 'stock': '55','unit': '吨','price': '5', 'effectiveTime': 'Sat Aug 14 2021 23:59:59 GMT+0800',
+                 'quality': '测试', 'contactTel': '6666666','minBuy': '6','addressId': 73,'shipmentDate': '6',
+                  'deliveryStyle': '1',  'payStayle': '2','status': '0' ,'uid': 8504,  'token': 49af2262a37f450ba13e2ecd8599f7d2eee,
+                  'type': '2' },200,'' ]
+
+    - [ '添加商品id为0',{ 'productId': '0', 'stock': '55','unit': '吨','price': '5', 'effectiveTime': 'Sat Aug 14 2021 23:59:59 GMT+0800',
+                  'quality': '测试', 'contactTel': '6666666','minBuy': '6','addressId': 73,'shipmentDate': '6',
+                  'deliveryStyle': '1',  'payStayle': '2','status': '0' ,'uid': '0',  'token': 49af2262a37f450ba13e2ecd8599f7d2eee,
+                  'type': '2' },200,'查询产品已不存在' ]
+    - [ '添加商品的uid为空',{ 'productId': '', 'stock': '55','unit': '吨','price': '5', 'effectiveTime': 'Sat Aug 14 2021 23:59:59 GMT+0800',
+                  'quality': '测试', 'contactTel': '6666666','minBuy': '6','addressId': 73,'shipmentDate': '6',
+                  'deliveryStyle': '1',  'payStayle': '2','status': '0' ,'uid': '',  'token': 49af2262a37f450ba13e2ecd8599f7d2eee,
+                  'type': '2' },200,"产品id不能为空" ]
+    - [ '添加商品的地址为空',{ 'productId': 1156, 'stock': '55','unit': '吨','price': '5', 'effectiveTime': 'Sat Aug 14 2021 23:59:59 GMT+0800',
+                    'quality': '测试', 'contactTel': '6666666','minBuy': '6','addressId': '','shipmentDate': '6',
+                    'deliveryStyle': '1',  'payStayle': '2','status': '0' ,'uid': 8504,  'token': '',
+                    'type': '2' },200,"地址选择有误，请重新选择" ]

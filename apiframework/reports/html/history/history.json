@@ -1,0 +1,142 @@
+{
+  "26b659652f2a959a854f6f75ee634e2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a26c6386572d47e",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647293,
+        "stop" : 1711672647293,
+        "duration" : 0
+      }
+    } ]
+  },
+  "751fb270a98b216fa4a697be2063ae5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1b5e3b27b4c5fe4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647152,
+        "stop" : 1711672647152,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d4ace2bc085e167780d2ed5c2f1f8b7a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e61cccc08c61a90a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647447,
+        "stop" : 1711672647447,
+        "duration" : 0
+      }
+    } ]
+  },
+  "23be083ed68f616f7f45c953ac303bba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52f0cd3fa2ec8b64",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647518,
+        "stop" : 1711672647518,
+        "duration" : 0
+      }
+    } ]
+  },
+  "319cdbd2ebd23dd7df8c3b3703ebb8a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa6d263269dcebb1",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647374,
+        "stop" : 1711672647374,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d5fcf3f7cbe2854afbc4148d79f587cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf2eda43a9b03084",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672647224,
+        "stop" : 1711672647224,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fd12443521722289fa2338603cc586b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a94d86007ca4503c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1711672646113,
+        "stop" : 1711672646113,
+        "duration" : 0
+      }
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+INFO     apiautotest:client.py:52 接口信息是:('url', 'http://192.168.200.123:8080/shop/product/addShopProduct')
+INFO     apiautotest:client.py:52 接口信息是:('method', 'post')
+INFO     apiautotest:client.py:52 接口信息是:('headers', None)
+INFO     apiautotest:client.py:52 接口信息是:('params', None)
+INFO     apiautotest:client.py:52 接口信息是:('data', {'productId': 1156, 'stock': '55', 'unit': '吨', 'price': '5', 'effectiveTime': 'Sat Aug 14 2021 23:59:59 GMT+0800', 'quality': '测试', 'contactTel': '6666666', 'minBuy': '6', 'addressId': 73, 'shipmentDate': '6', 'deliveryStyle': '1', 'payStayle': '2', 'status': '0', 'uid': 8504, 'token': '49af2262a37f450ba13e2ecd8599f7d2eee', 'type': '2'})
+INFO     apiautotest:client.py:52 接口信息是:('json', None)
+INFO     apiautotest:client.py:52 接口信息是:('files', None)
+INFO     apiautotest:client.py:53 准备开始发起请求
+INFO     apiautotest:client.py:56 接口响应状态码是:200
+INFO     apiautotest:client.py:57 接口的响应内容是:{"success":true,"errorCode":null,"errorMsg":null,"data":{"id":1314,"logo":null,"uid":8504,"storeId":null,"productId":1156,"productName":"甲醇","status":0,"type":2,"specifications":null,"quality":"测试","shipmentDate":6,"county":"大埔县","province":"广东省","city":"梅州市","deliveryStyle":1,"haveInvoice":null,"invoiceType":null,"minBuy":6,"stock":55,"stockRemind":null,"unit":"吨","price":5,"ranking":0,"createTime":"2021-08-20T01:52:52.746+0000","volume":0,"payStayle":2,"releaseTime":null,"cas":"67-56-1","address":"哪里啊啊","effectiveTime":"2021-08-14T15:59:59.000+0000","productNo":"SP2021082009525278","productAlias":"木醇；木精","regionId":4,"createTimeStr":"2021-08-20 09:52:52","effectiveTimeStr":"2021-08-14 23:59:59","statusText":"过期下架","term":null,"onCount":0,"validDay":null,"regionQq":null,"ares":null,"regionName":null,"toExamine":1,"auditReason":null,"lettileTiem":null,"addressId":73,"companyName":null,"offerCount":null,"statusStr":null,"contactTel":"6666666","orderCount":null,"statusCode":null,"statusCodeFix":"4","countyStr":null,"provinceStr":null,"cityStr":null,"typeText":"询价模式","deliveryStyleText":"配送","invoiceTypeText":"","payStayleText":"线下支付"},"rows":10,"page":1,"total":null,"totalPage":0}

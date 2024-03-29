@@ -1,0 +1,102 @@
+{
+  "uid" : "a6709016b8eb9bd3",
+  "name" : "发布撮合集市商品",
+  "fullName" : "keywords.test_run#test_run",
+  "historyId" : "d4ace2bc085e167780d2ed5c2f1f8b7a",
+  "time" : {
+    "start" : 1665217493751,
+    "stop" : 1665217493894,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "seller_login",
+    "time" : {
+      "start" : 1665217493710,
+      "stop" : 1665217493750,
+      "duration" : 40
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1665217492387,
+      "stop" : 1665217492564,
+      "duration" : 177
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de01dcab9fe8b7d4",
+      "name" : "log",
+      "source" : "de01dcab9fe8b7d4.txt",
+      "type" : "text/plain",
+      "size" : 8387
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "keywords"
+  }, {
+    "name" : "suite",
+    "value" : "test_run"
+  }, {
+    "name" : "host",
+    "value" : "WINDOWS-B7G8EFK"
+  }, {
+    "name" : "thread",
+    "value" : "10868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "keywords.test_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casename",
+    "value" : "'发布撮合集市商品'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6709016b8eb9bd3.json",
+  "parameterValues" : [ "'发布撮合集市商品'" ]
+}

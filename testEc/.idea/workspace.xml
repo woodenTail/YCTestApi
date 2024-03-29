@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65b08e44-e4f8-412b-907b-aec046319711" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apiframework/common/rannum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_study/ecsc_apis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_study/get_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_study/token_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_study/upload_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/base_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/base_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/buyer/addShopProduct.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/buyer/addShopProduct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/buyer/getShopProductList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/buyer/getShopProductList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/buyer/selectUser_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/buyer/selectUser_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/buyer/shelve_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/buyer/shelve_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/api/seller/addWantToBuy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/api/seller/addWantToBuy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/common/file_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/common/file_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/data/mtxshop_keywords.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/data/mtxshop_keywords.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/05c736f9-c23e-4ce9-8d9f-c9a3c8cd913c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/070317b8-4ebe-4bee-849b-e5053b9339a2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/40eeaa78-da47-44ba-acf5-d7713f64549b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/645e6238-f93e-4200-8ff5-1ac7020d6f6d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/70bf2abd-4b4e-4f7d-a9c7-6a6ec9b91a37-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/7aad7be9-14db-4a33-9b92-a1611607d680-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/80656bf9-990b-483a-bf40-f8114a90640b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/a6f6425e-1b03-4f61-a9b4-6c0b8b18adee-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/keywords/reports/shop/b73f16ee-ef00-4d91-a2c6-1acf122bef25-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/logs/requests.log" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/logs/requests.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/logs/requests.log.2021-08-20_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/logs/requests.log.2021-08-23_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/logs/requests.log.2021-08-25_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/15fca6819aa84153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/4fb9cab7fbd52ff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/7fdcf9c635667c48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/939a94529fc900dd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/bca55c03a040608c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/attachments/d29945f7d72ad628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/251b43a9b400e63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/525a776f20988f7d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/5b1e5151e0d63abf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/61773ecfe02cf662.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/97bc30bb38f35b6c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/test-cases/ab8b459914cd2f10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/reports/html/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/0840fec5-d145-4b29-8fb8-1a9d9f370876-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/0c0d9e69-6f1b-40d1-9e16-2d64084b65f5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/14ce892b-9f0e-46a1-9b59-b6906b931d51-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/160eb985-ed80-4e26-b450-2eec400b6b6b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/247220fc-a052-4837-bc00-be04e6e2dc5b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/38d78611-2935-4b08-bc0a-3870c402a147-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/39063fdb-85d7-4e48-bdbf-60d00c64f083-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/3ba6afed-e2c3-4c17-8d00-5a2ddb921422-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/3d8016c6-6fab-4fd1-b6fe-271552cbcf9f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/427ecbc0-16c4-45bc-9909-b103febfb072-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/4ec6463d-94f6-42a0-97bd-0ba3adfe3ecd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/500ed43e-9cfb-4ecc-adf6-e2f577c75b9a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/5dc31121-16c9-476a-84da-54a80487c75c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/5f87f990-4d5f-4747-807a-839bee41972c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/67664a5e-1bb5-429a-9356-463f3b607b26-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/6c800d02-7eeb-4220-8d3b-5269b280d5be-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/6ef81a92-edf7-44ad-9dd8-9554c60e6ae3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/78f3593d-1572-4256-ad9a-be6bd47ff4d6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/839f901e-d910-4555-8f81-ebb391b6011d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/af36b39a-2a7d-467f-b7d3-60497cee5c31-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/c342a0e9-4418-4134-84fe-51cf3cf083b0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/df0d86f8-d73f-4fae-b1a9-0da00cb631bb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/df462640-1043-4f88-a944-fa2b1052bf9c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/e9d6dc52-4f13-44bb-ada1-291d3b239c7a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/reports/shop/f8298bbd-e062-4b48-83d4-a6ddcf621410-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiframework/run_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apiframework/run_main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2dtBkQ8CmmloqGuAVG5x1sJSSt0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_web_framework" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pythonProject\testEc\request_study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ecsc_apis">
+    <configuration name="ecsc_apis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testEc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/request_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_study/ecsc_apis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="testEc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\pythonProject\testEc\request_study\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upload_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testEc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\pythonProject\testEc\request_study\upload_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_add_cart_class.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testEc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyrest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pyrest_study/test_add_cart_class.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_get_product_func.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testEc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyrest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pyrest_study/test_get_product_func.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.upload_file" />
+      <item itemvalue="Python tests.pytest in test_get_product_func.py" />
+      <item itemvalue="Python tests.pytest in test_add_cart_class.py" />
+      <item itemvalue="Python.ecsc_apis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ecsc_apis" />
+        <item itemvalue="Python tests.pytest in test_get_product_func.py" />
+        <item itemvalue="Python tests.pytest in test_add_cart_class.py" />
+        <item itemvalue="Python.upload_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b08e44-e4f8-412b-907b-aec046319711" name="Default Changelist" comment="" />
+      <created>1710817636969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710817636969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
