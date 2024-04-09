@@ -13,5 +13,5 @@ if __name__ == '__main__':
     pytest.main()
     # 2.allure generate .\reports\shop   -o ./reports/html --clean
     # python中执行命令行参数 os.system()
-    os.system('allure generate .\\reports\\shop   -o ./reports/html --clean')
+    # os.system('allure generate .\\reports\\shop   -o ./reports/html --clean')
     #-sv  --alluredir ./reports/shop --clean-alluredir

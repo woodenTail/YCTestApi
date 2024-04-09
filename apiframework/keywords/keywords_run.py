@@ -37,6 +37,7 @@ def run(client,casename):
             # 先变量替换 然后做eval转换
             # 正则表达式是对字符串做处理
             client.headers = eval(regex_sub(headers))
+
         # 4.请求参数
         # 优先级处理: 如果测试用例有用例参数就用用例参数，否则就用默认参数
         if step[8] != '': # 用例参数有值

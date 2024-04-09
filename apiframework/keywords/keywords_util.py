@@ -3,6 +3,8 @@
 # @author: 夭夭
 # @Time: 2021-07-18 11:05
 # @Copyright：北京码同学网络科技有限公司
+import json
+
 import pandas
 #存储所有的变量信息
 import pymysql
@@ -25,6 +27,8 @@ def get_global_variables():
         key = res.iloc[row,0]  # 变量
         value = res.iloc[row,1]  # 值
         global_variables[key] = value  # 存储到全局变量
+
+
 # 获取所有的api里面的信息
 def get_api_infos():
     '''
@@ -35,6 +39,7 @@ def get_api_infos():
                             sheet_name='单接口',
                             keep_default_na=False,
                             engine='openpyxl')
+
     # 获取所有的行
     row_count = res.shape[0]  # 不包括第一行  索引值从0开始
     # 获取列数
@@ -50,6 +55,8 @@ def get_api_infos():
             # 把api_name为键  api的url，method，headers和参数为元素的列表作为值
             # 存储到apis中
         apis[api_name] = api_info_list
+
+
 # 获取所有要执行的测试用例
 def get_all_cases():
     res = pandas.read_excel(DIR_NAME + '/data/mtxshop_keywords.xlsx',

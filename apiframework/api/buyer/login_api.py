@@ -14,8 +14,8 @@ class LoginApi(BuyerBaseApi):
         self.url=self.host +'/user/login'
 
         self.data={
-            'mobile':13399321748,
-            'password':'W123456' ,
+            'mobile': '13754327550',
+            'password': 'Hmw_9244',
             'channel': 'pc'
         }
         self.session = requests.session()

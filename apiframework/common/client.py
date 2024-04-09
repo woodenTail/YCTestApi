@@ -69,6 +69,10 @@ class RequestsClient:
 
         if self.resp != None and self.resp != '':
             if index >= 0:
+                print("=====")
+                print(self.resp.json())
+                print(jsonpath_express)
+                print(index)
                 extract_data = jsonpath.jsonpath(self.resp.json(), jsonpath_express)[index]
                 self.logger.info('接口的提取出来的响应内容是:{}'.format(extract_data))
                 return extract_data
