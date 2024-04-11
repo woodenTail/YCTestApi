@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","获取商品-异常测试用例",""
-"broken","Fri Mar 29 08:37:26 CST 2024","Fri Mar 29 08:37:26 CST 2024","0","keywords","test_run","","","","获取商品接口",""
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","发布撮合集市商品",""
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","下架撮合集市商品",""
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","获取地址接口",""
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","新增撮合集市商品接口",""
-"broken","Fri Mar 29 08:37:27 CST 2024","Fri Mar 29 08:37:27 CST 2024","0","keywords","test_run","","","","新增求购接口",""
